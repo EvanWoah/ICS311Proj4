@@ -1,0 +1,8 @@
+ICS 311 Project Part 4 
+
+Java GUI connects to db. 
+
+3 forms-
+1) 
+2)
+3)
